@@ -11,3 +11,5 @@ type (If you are on windows command prompt)<br/>
 docker run --rm -it -v "%cd%":/root/env aos-buildenv<br/>
 for linux and macOS type<br/>
 docker run --rm -it -v "$(pwd)":/root/env myos-buildenv
+<br/>
+then after that do "make os"
