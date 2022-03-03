@@ -1,5 +1,5 @@
-# Antartic-Operating-System
-The Antartic OS writen in asm and C
+# Antartic Operating System
+The Antartic OS writen in Asmembly and C
 # Building
 If you want to build it install docker<br/>
 then type in cmd or terminal<br/>
